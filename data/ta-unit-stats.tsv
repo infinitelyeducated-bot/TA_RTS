@@ -1,0 +1,21 @@
+name	side	class	cost_m	build_time	hp	weapon	dps	range	notes
+Commander	ARM	commander	3000	3000	4000	mechgun	25	256	Commander death = defeat
+Peewee	ARM	kbot	82	2340	320	laser	10	192	cheap assault
+Flea	ARM	kbot	100	2700	540	laser	15	150	scout
+AK	ARM	kbot	110	2460	400	laser	12	192	basic
+Rocket Soldier	ARM	kbot	120	3300	440	rocket	18	320	anti-air capable
+Jeffy	ARM	kbot	45	1200	85	laser	6	200	fast scout
+Solar Collector	ARM	energy	60	1100	128	—	20	+20 energy
+Metal Extractor	ARM	metal	25	1000	128	—	5	+5 metal
+Wind Generator	ARM	energy	40	1600	96	—	8	+8 energy
+Builder	ARM	kbot	150	4200	320	—	—	—	builds factories/buildings
+ARM Construction Vehicle	ARM	vehicle	300	7400	900	—	—	—	builds vehicles/plants
+Vehicle Plant	ARM	structure	600	16000	1200	—	—	—	builds vehicles
+Kbot Lab	ARM	structure	170	4800	800	—	—	—	builds kbots
+Weasel	ARM	vehicle	180	4200	540	laser	14	210	fast scout
+Flash	ARM	vehicle	430	7100	800	laser	24	210	raid tank
+Stumpy	ARM	vehicle	600	8300	1100	medium laser	22	270	mid tank
+MT	ARM	structure	300	6800	600	aa	30	420	flak
+LLT	ARM	defense	150	3000	400	laser	12	320	light turret
+Guardian	ARM	defense	1300	15000	2400	heavy laser	60	320	heavy turret
+Mercury	ARM	structure	600	+	88	aa missile	38	500	anti-air
